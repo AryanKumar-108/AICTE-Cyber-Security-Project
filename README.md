@@ -1,45 +1,55 @@
-**🕵️‍♂️ AICTE Cyber Security Project – Steganography**
+# 🕵️‍♂️ AICTE Cyber Security Project – Steganography & Keylogger
 
 Welcome to the AICTE Cyber Security Project repository!
-This repo explores the fascinating concept of Steganography — hiding information within images 🖼️, text 📜, and other digital media 💾 as a method of secure communication in Cybersecurity 🔐.
-<br><hr>
 
-**🌍 What is Steganography?**
+# 📌 Overview
 
-Steganography is the practice of concealing a secret message within an ordinary object so that only the intended recipient knows it's there. Unlike traditional encryption 🔑, which scrambles the message, steganography hides its very existence.
+This repository contains the implementation of a Cyber Security Project under AICTE guidelines, focusing on:
 
-✅ Example: A text message hidden inside the pixels of an image 🌈
-<br><hr>
-**✨ Features of This Repo**
+Steganography: Hiding sensitive data inside image files securely.
 
-🔒 Python-based Encryption & Decryption for hiding and revealing text in images
+Keylogger: Capturing keystrokes for monitoring and security awareness.
 
-🖼️ Image Steganography Implementation with Least Significant Bit (LSB) techniques
+The project demonstrates how attackers might misuse these techniques, while also educating on ethical use cases, detection methods, and prevention strategies.
 
-🚀 Simple scripts for hands-on learning in Cyber Security
+# 🚀 Features
+🔒 Steganography
 
-📝 Well-documented and beginner-friendly for educational purposes
-<hr>
+Hide secret text messages inside images.
 
-**🎯 Use Cases of Steganography**
+Extract hidden text from steganographic images.
 
-🔐 Secure communication
+Simple and user-friendly implementation.
 
-📡 Digital watermarking
+⌨️ Keylogger
 
-🕵️ Hidden attacks/malware (cybersecurity awareness)
+Records keystrokes in real-time.
 
-📚 Research & learning in Information Security
-<hr>
+Saves logs to a local file.
 
-**⚠️ Disclaimer**
+Demonstrates awareness of keylogging threats.
 
-This project is built for educational purposes only 📘.
 
-It must not be misused ❌ for unlawful or malicious activities.
-<hr>
+# ⚠️ Disclaimer
 
-**🤝 Contributing**
+This project is developed strictly for educational purposes under AICTE Cyber Security guidelines.
+
+❌ Do NOT use this tool for malicious activities.
+
+✅ Intended use: Learning, awareness, and research.
+
+The authors hold no responsibility for any misuse.
+
+# 📖 References
+
+AICTE Cyber Security curriculum
+
+Python official documentation
+
+Open-source security tools
+
+
+# 🤝 Contributing
 
 Contributions are always welcome! 🚀
 
@@ -50,7 +60,7 @@ Share ideas 💡
 Submit pull requests 📥
 <hr>
 
-**⭐ Support**
+# ⭐ Support
 
 If you find this project useful, don’t forget to star ⭐ the repo!
 
