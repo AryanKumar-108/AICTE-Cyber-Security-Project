@@ -1,68 +1,68 @@
 # 🕵️‍♂️ AICTE Cyber Security Project – Steganography & Keylogger
 
-Welcome to the AICTE Cyber Security Project repository!
+**Welcome to the AICTE Cyber Security Project repository!**
 
 # 📌 Overview
 
-This repository contains the implementation of a Cyber Security Project under AICTE guidelines, focusing on:
+- This repository contains the implementation of a Cyber Security Project under AICTE guidelines, focusing on:
 
-Steganography: Hiding sensitive data inside image files securely.
+- Steganography: Hiding sensitive data inside image files securely.
 
-Keylogger: Capturing keystrokes for monitoring and security awareness.
+- Keylogger: Capturing keystrokes for monitoring and security awareness.
 
-The project demonstrates how attackers might misuse these techniques, while also educating on ethical use cases, detection methods, and prevention strategies.
+- The project demonstrates how attackers might misuse these techniques, while also educating on ethical use cases, detection methods, and prevention strategies.
 
 # 🚀 Features
-🔒 Steganography
+**🔒 Steganography**
 
-Hide secret text messages inside images.
+- Hide secret text messages inside images.
 
-Extract hidden text from steganographic images.
+- Extract hidden text from steganographic images.
 
-Simple and user-friendly implementation.
+- Simple and user-friendly implementation.
 
-⌨️ Keylogger
+**⌨️ Keylogger**
 
-Records keystrokes in real-time.
+- Records keystrokes in real-time.
 
-Saves logs to a local file.
+- Saves logs to a local file.
 
-Demonstrates awareness of keylogging threats.
+- Demonstrates awareness of keylogging threats.
 
 
 # ⚠️ Disclaimer
 
-This project is developed strictly for educational purposes under AICTE Cyber Security guidelines.
+- This project is developed strictly for educational purposes under AICTE Cyber Security guidelines.
 
-❌ Do NOT use this tool for malicious activities.
+- ❌ Do NOT use this tool for malicious activities.
 
-✅ Intended use: Learning, awareness, and research.
+- ✅ Intended use: Learning, awareness, and research.
 
-The authors hold no responsibility for any misuse.
+- The authors hold no responsibility for any misuse.
 
 # 📖 References
 
-AICTE Cyber Security curriculum
+- AICTE Cyber Security curriculum
 
-Python official documentation
+- Python official documentation
 
-Open-source security tools
+- Open-source security tools
 
 
 # 🤝 Contributing
 
-Contributions are always welcome! 🚀
+- Contributions are always welcome! 🚀
 
-Report issues 🐛
+- Report issues 🐛
 
-Share ideas 💡
+- Share ideas 💡
 
-Submit pull requests 📥
+- Submit pull requests 📥
 <hr>
 
 # ⭐ Support
 
-If you find this project useful, don’t forget to star ⭐ the repo!
+- If you find this project useful, don’t forget to star ⭐ the repo!
 
-👉 Developed by AryanKumar-108 🙌
+**👉 Developed by AryanKumar-108 🙌**
 
